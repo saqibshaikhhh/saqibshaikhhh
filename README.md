@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saqib Shaikh
-- 🏫 I am a Junior at the National University of Computer and Emerging Sciences (FAST-NUCES)
+- 🏫 I am a Senior at the National University of Computer and Emerging Sciences (FAST-NUCES)
 - 👀 I’m interested in java development.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me shaikhsaqib84@gmail.com
