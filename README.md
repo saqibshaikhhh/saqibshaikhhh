@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">With a great enthusiasm for web programming, I am a second-year student and a junior developer. I enjoy coding, innovating, and experimenting. I am proficient in HTML, CSS, JavaScript, React, Bootstrap, MySQL, Firebase, and Adobe Creative Cloud. I'm a motivated and sociable person who enjoys taking on new challenges and continuing my education. I enjoy interacting with new people, sharing thoughts, and uplifting the IT community.</h4>
+<h4 align="center">With a great enthusiasm for web programming, I am a second-year student and a junior developer. I enjoy coding, innovating, and experimenting. I am proficient in Java, JavaFX, Java Swing, JavaScript, React, Next, Node, MySQL, Firebase, and . I'm a motivated and sociable person who enjoys taking on new challenges and continuing my education. I enjoy interacting with new people, sharing thoughts, and uplifting the IT community.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqibshaikhhh&label=Profile%20views&color=0e75b6&style=plastic" alt="saqibshaikhhh" /> </p>
 
